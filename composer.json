@@ -1,6 +1,6 @@
 {
     "name": "janpun\/flight-iata-code",
-    "description": "Package description here.",
+    "description": "航班iata代码解析",
     "license": "MIT",
     "authors": [
         {
