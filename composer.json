@@ -1,0 +1,17 @@
+{
+    "name": "janpun\/flight-iata-code",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Janpun",
+            "email": "janpun@live.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Janpun\\FlightIataCode\\": "src"
+        }
+    }
+}

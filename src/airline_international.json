@@ -1,0 +1,298 @@
+[
+  {
+    "name": "山东航空",
+    "middle_name": "山东航空",
+    "short_name": "山东",
+    "code": "SC",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "深圳航空",
+    "middle_name": "深圳航空",
+    "short_name": "深航",
+    "code": "ZH",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "鲲鹏航空",
+    "middle_name": "鲲鹏航空",
+    "short_name": "鲲鹏",
+    "code": "VD",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "昆明航空",
+    "middle_name": "昆明航空",
+    "short_name": "昆明",
+    "code": "KY",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "西藏航空",
+    "middle_name": "西藏航空",
+    "short_name": "西藏",
+    "code": "TV",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "青岛航空",
+    "middle_name": "青岛航空",
+    "short_name": "青岛",
+    "code": "QW",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "中国东方航空",
+    "middle_name": "东方航空",
+    "short_name": "东航",
+    "code": "MU",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "上海航空",
+    "middle_name": "上海航空",
+    "short_name": "上航",
+    "code": "FM",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "中国联航",
+    "middle_name": "中国联航",
+    "short_name": "联航",
+    "code": "KN",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "幸福航空",
+    "middle_name": "幸福航空",
+    "short_name": "幸福",
+    "code": "JR",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "中国南方航空",
+    "middle_name": "南方航空",
+    "short_name": "南航",
+    "code": "CZ",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "厦门航空",
+    "middle_name": "厦门航空",
+    "short_name": "厦航",
+    "code": "MF",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "重庆航空",
+    "middle_name": "重庆航空",
+    "short_name": "重庆",
+    "code": "OQ",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "海南航空",
+    "middle_name": "海南航空",
+    "short_name": "海航",
+    "code": "HU",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "祥鹏航空",
+    "middle_name": "祥鹏航空",
+    "short_name": "祥鹏",
+    "code": "8L",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "天津航空",
+    "middle_name": "天津航空",
+    "short_name": "天津",
+    "code": "GS",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "西部航空",
+    "middle_name": "西部航空",
+    "short_name": "西部",
+    "code": "PN",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "大新华航空",
+    "middle_name": "大新华航空",
+    "short_name": "大新华",
+    "code": "CN",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "首都航空",
+    "middle_name": "首都航空",
+    "short_name": "首航",
+    "code": "JD",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "扬子江快运",
+    "middle_name": "扬子江快运",
+    "short_name": "扬子江",
+    "code": "Y8",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "福州航空",
+    "middle_name": "福州航空",
+    "short_name": "福州",
+    "code": "FU",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "乌鲁木齐航空",
+    "middle_name": "乌鲁木齐",
+    "short_name": "乌航",
+    "code": "UQ",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "吉祥航空",
+    "middle_name": "吉祥航空",
+    "short_name": "吉祥",
+    "code": "HO",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "九元航空",
+    "middle_name": "九元航空",
+    "short_name": "九元",
+    "code": "AQ",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "春秋航空",
+    "middle_name": "春秋航空",
+    "short_name": "春秋",
+    "code": "9C",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "华夏航空",
+    "middle_name": "华夏航空",
+    "short_name": "华夏",
+    "code": "G5",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "四川航空",
+    "middle_name": "四川航空",
+    "short_name": "川航",
+    "code": "3U",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "成都航空",
+    "middle_name": "成都航空",
+    "short_name": "成都",
+    "code": "EU",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "奥凯航空",
+    "middle_name": "奥凯航空",
+    "short_name": "奥凯",
+    "code": "BK",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "瑞丽航空",
+    "middle_name": "瑞丽航空",
+    "short_name": "瑞丽",
+    "code": "DR",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "顺丰航空",
+    "middle_name": "顺丰航空",
+    "short_name": "顺丰",
+    "code": "O3",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "友和道通",
+    "middle_name": "友和道通",
+    "short_name": "友和",
+    "code": "UW",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "中国国航航空公司",
+    "middle_name": "中国国航",
+    "short_name": "国航",
+    "code": "CA",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "东海航空",
+    "middle_name": "东海航空",
+    "short_name": "东海",
+    "code": "DZ",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "河北航空",
+    "middle_name": "河北航空",
+    "short_name": "河北",
+    "code": "NS",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "北部湾航空",
+    "middle_name": "北部湾航空",
+    "short_name": "北部湾",
+    "code": "GX",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  },
+  {
+    "name": "湖南航空",
+    "middle_name": "湖南航空",
+    "short_name": "湖南",
+    "code": "A6",
+    "country": "中华人民共和国",
+    "short_country": "中国"
+  }
+]
