@@ -10,14 +10,14 @@ $ composer require janpun/flight-iata-code -vvv
 ```
 
 ## Usage
-### 航空公司解析
+### Airline Decode
 ```php
 use Janpun\FlightIataCode\Airline;
 
 $airline = new Airline();
 $response = $airline->getNationalInfo('CA');
 ```
-### 机场解析
+### Airport Decode
 ```php
 use Janpun\FlightIataCode\Airport;
 
